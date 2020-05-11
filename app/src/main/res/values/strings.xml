@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="edit_text">Name</string>
+    <string name="toppings_textView">Toppings</string>
+    <string name="whipped_cream_checkbox">Whipped Cream</string>
+    <string name="chocolate_checkbox">Chocolate</string>
+    <string name="quantity_textView">Quantity</string>
+    <string name="quantity">2</string>
+    <string name="increment_button">+</string>
+    <string name="decrement_button">-</string>
+    <string name="submit_button">Submit</string>
+</resources>
